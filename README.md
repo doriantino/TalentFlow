@@ -12,7 +12,7 @@
 
 Pour les équipes de recrutement qui croulent sous les candidatures et manquent de temps pour évaluer chaque talent en profondeur et équitablement, **TalentFlow** est une plateforme de recrutement et d'onboarding augmentée par l'IA.
 
-Là où les outils classiques se contentent de filtrer et de scorer les CV, TalentFlow va plus loin : il **génère pour chaque candidat une évaluation sur mesure** - test technique ciblé et trame d'entretien personnalisée — calibrée sur le profil réel, les exigences du poste, et les soft skills attendus. Il met en lumière les **écarts précis** et prépare un **plan d'onboarding personnalisé** pour le candidat retenu.
+Là où les outils classiques se contentent de filtrer et de scorer les CV, TalentFlow va plus loin : il **génère pour chaque candidat une évaluation sur mesure** - test technique ciblé et trame d'entretien personnalisée - calibrée sur le profil réel, les exigences du poste, et les soft skills attendus. Il met en lumière les **écarts précis** et prépare un **plan d'onboarding personnalisé** pour le candidat retenu.
 
 Le résultat : un processus **rapide, équitable, traçable et profondément personnalisé**, où l'IA arme l'humain de bonnes informations sans jamais le remplacer.
 
@@ -72,13 +72,13 @@ talentflow/
 
 ## 🗺️ Roadmap (haute volée)
 
-- **Sprint 0** — Cadrage final, mise en place de l'environnement projet ✅
-- **Sprint 1** — Fondations techniques (socle, SOD, authentification, audit log) 🔜
-- **Sprint 2** — Workday simulé (dépôt de CV, déclenchement du pipeline)
-- **Sprint 3** — Moteur IA phase 1 (extraction, scoring, résumé)
-- **Sprint 4** — Dashboard Recruteur
-- **Sprint 5** — Consolidation MVP & démo
-- **Sprints suivants** — LinkedIn simulé, questions sur mesure, onboarding personnalisé
+- **Sprint 0** - Cadrage final, mise en place de l'environnement projet ✅
+- **Sprint 1** - Fondations techniques (socle, SOD, authentification, audit log) 🔜
+- **Sprint 2** - Workday simulé (dépôt de CV, déclenchement du pipeline)
+- **Sprint 3** - Moteur IA phase 1 (extraction, scoring, résumé)
+- **Sprint 4** - Dashboard Recruteur
+- **Sprint 5**  Consolidation MVP & démo
+- **Sprints suivants** - LinkedIn simulé, questions sur mesure, onboarding personnalisé
 
 ---
 
@@ -93,7 +93,7 @@ talentflow/
 
 ## 📝 Licence
 
-MIT — voir [LICENSE](LICENSE).
+MIT - voir [LICENSE](LICENSE).
 
 ---
 
