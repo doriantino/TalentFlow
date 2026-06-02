@@ -26,6 +26,7 @@ Chaque décision est datée, justifiée, et signée. C'est la **traçabilité de
 | 2026-06-01 | Permissions GitHub : rôle "Write" sur le dépôt TalentFlow | Principe du moindre privilège — peut pousser des branches et ouvrir des PR, ne peut pas merger sur main protégé | Dorian Dikoume | GOV-02.2 (SOD) |
 | 2026-06-01 | Permissions Jira : rôle "Membre" sur l'espace TalentFlow | Peut consulter et modifier ses tickets, ne peut pas reconfigurer le projet | Dorian Dikoume | GOV-02.1 (Accès) |
 | 2026-06-01 | Mise en place de la protection de la branche main (PR obligatoire, 1 approbation, pas de force push) | Garantir l'intégrité du code et tracer toute modification | Dorian Dikoume | GOV-02.4 (Journalisation) |
+| 2026-06-02 | Assouplissement temporaire de la règle d'approbation sur les PR : passage de 1 à 0 approbation requise | Phase de bootstrap où le projet n'a qu'un seul codeur opérationnel ; aucune review pair n'est possible. La règle sera réinstaurée (1 approbation) dès que Moïse aura terminé son onboarding et sera capable de reviewer les PR de gouvernance. | Dorian Dikoume | GOV-02.4, Branch ruleset GitHub |
 
 ---
 
