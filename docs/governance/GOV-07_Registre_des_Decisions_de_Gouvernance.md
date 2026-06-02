@@ -22,8 +22,10 @@ Chaque décision est datée, justifiée, et signée. C'est la **traçabilité de
 
 | Date | Décision | Justification | Décideur | Référence |
 |------|----------|---------------|----------|-----------|
-| À venir | Adoption de la Charte V1 | Cadrage initial du projet | Awa | GOV-01 V1 |
-| À venir | Adoption de la politique SOD V1 | Mise en place des 3 rôles | Awa | GOV-02.2 V1 |
+| 2026-06-01 | Intégration de Moïse Dikoume comme Apprenti Développeur | Formation par le projet, accompagnement Sprint 1, transmission de compétences (Git, GitHub, Jira, Python) | Dorian Dikoume | SPRINT1-ONBOARDING |
+| 2026-06-01 | Permissions GitHub : rôle "Write" sur le dépôt TalentFlow | Principe du moindre privilège — peut pousser des branches et ouvrir des PR, ne peut pas merger sur main protégé | Dorian Dikoume | GOV-02.2 (SOD) |
+| 2026-06-01 | Permissions Jira : rôle "Membre" sur l'espace TalentFlow | Peut consulter et modifier ses tickets, ne peut pas reconfigurer le projet | Dorian Dikoume | GOV-02.1 (Accès) |
+| 2026-06-01 | Mise en place de la protection de la branche main (PR obligatoire, 1 approbation, pas de force push) | Garantir l'intégrité du code et tracer toute modification | Dorian Dikoume | GOV-02.4 (Journalisation) |
 
 ---
 
