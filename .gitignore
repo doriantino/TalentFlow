@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environnement local et base de données
+.env
+.env.local
+talentflow.db

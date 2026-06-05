@@ -41,4 +41,4 @@ Cette charte chapeaute :
 
 ---
 
-*Squelette V0.1 - à enrichir en V1 au Sprint 1.*
+*Squelette V1.0 - Initialisation du socle technique validée au Sprint 1.*
